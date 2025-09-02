@@ -6,7 +6,7 @@ Ce dépôt Git contient :
 
 - un dossier données, dans lequel on trouve :
   
-- tous les fichiers de données, segmentés et corrigés.
+- un dossier compressé qui contient toutes les fichiers .txt bruts, non corrigés ni segmentés.
 - un document csv comprenant toutes les indications nécessaires sur les vidéos du corpus : titre, date, auteur, lien.
   
 - un dossier code, dans lequel on trouve :
